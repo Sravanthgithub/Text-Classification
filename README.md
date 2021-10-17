@@ -1,5 +1,5 @@
 # Text-Classification
-It can classify the given sentence whether it's a positive or negative statement
+It can classify the given sentence whether it's a positive or negative statement using Natural Language Processing Techniques
 
 Modules used - Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
 
